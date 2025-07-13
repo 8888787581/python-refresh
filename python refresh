@@ -16,7 +16,9 @@ x = "jack" # string
 is_jack = true # boolean
 
 # TYPE CASTNG
-a=3
-print(a,type(a)
-b=float(a)
-print(b,type(b)
+a = 3
+print(a, type(a))
+
+b = float(a)  # convert 'a' to float, store in 'b'
+print(b, type(b))
+
