@@ -1,3 +1,16 @@
 a = 5
 b = 32
 print(a+b)
+
+print("hello world")
+
+# THIS IS A COMMENT
+""" THIS IS USE FOR COMMENTS"""
+
+a = 4
+print(type(a))
+
+x = 10 # integer
+x = 3.0 # float
+x = "jack" # string
+is_jack = true # boolean
